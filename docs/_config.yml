@@ -21,7 +21,7 @@ root: /
 baseurl: /
 url: https://samuelwoods.me
 
-title: Welcome To My Website!
+title: 
 email: samuel@samuelwoods.me
 description: >- # this means to ignore newlines until "baseurl:"
   Hi there! I am a senior at UC San Diego majoring in Mathematics-Computer Science.
@@ -29,8 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am a Software Engineer experienced in a variety of programming languages and architectures. 
   Currently I am available for work opportunities. My favorite thing to do is cycling.
   
-leetcode_username: samuellwoods
-linkedin_username: samuelwoods64b1
+linkedin_username: samuellwoods
 github_username:  samuelwoodsl
 
 # Build settings
