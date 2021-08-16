@@ -20,7 +20,6 @@
 root: /
 baseurl: /
 url: https://samuelwoods.me
-
 title: Samuel Woods 
 email: samuel@samuelwoods.me
 description: >- # this means to ignore newlines until "baseurl:"
