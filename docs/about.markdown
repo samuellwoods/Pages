@@ -10,4 +10,4 @@ I am 22 years old and grew up in Beaverton, Oregon. In my spare time I enjoy cyc
 [GitHub](https://github.com/samuelwoodsl)  
 [LinkedIn](https://www.linkedin.com/in/samuellwoods/)   
 [LeetCode](https://leetcode.com/)\
-[Resume]() 
+[Resume](htts://samuellwoods.github.io/Pages/Resume_SW) 
