@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am 22 years old and from Beaverton, Oregon. I am currently a senior at the University of California San Diego, graduating Fall 2021 with a degree in Mathematics-Computer Science. My favorite programming language is Python because it is concise. When I am not busy I enjoy cycling, sci-fi books and shows, and video games. Currently I am available for work opportunities.
+I am currently a senior at the University of California San Diego, graduating in Fall 2021 with a degree in Mathematics-Computer Science. My favorite programming language is Python because it is concise. Seeking entry-level opportunities in software engineering. Personal interests include learning Spanish and Japanese, international travel, biking, and video games. 
 \
 \
 [GitHub](https://github.com/samuellwoods)  

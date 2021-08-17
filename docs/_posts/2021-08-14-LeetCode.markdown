@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "See my submissions on LeetCode!"
+title:  "See my submissions on LeetCode"
 date:   2021-08-14 09:11:15 -0700
 categories: jekyll update
 ---
