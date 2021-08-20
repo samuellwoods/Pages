@@ -13,7 +13,7 @@ permalink: /about/
 I am currently a senior at the University of California San Diego, graduating in Fall 2021 with a degree in Mathematics-Computer Science. My favorite programming language is Python because it is concise. Seeking entry-level opportunities in software engineering. Personal interests include learning Spanish and Japanese, international travel, biking, and video games. 
 \
 \
-![me]({{ samuelwoods.me }}/websitephoto.jpg)
+![me]({{ samuelwoods.me }}/websitephotonew.jpg)
 
 
 [1]:{{ samuelwoods.me }}/Resume_SW.pdf
